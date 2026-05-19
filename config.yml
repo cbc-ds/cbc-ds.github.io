@@ -10,7 +10,7 @@ markup:
 
 params:
   # --- Hero section ---
-  name: "CbC-DS 2026"
+  name: "Correct-by-Construction Distributed Systems and Decentralised Applications: from Blockchain to Swarms"
   description: "Workshop on Correct-by-construction Distributed Systems and Decentralised Applications: from Blockchain to Swarms"
   date: "July 19, 2026"
   venue: "ISCTE"
@@ -21,7 +21,7 @@ params:
   # twitter: "myconf2026"
 
   titles:
-    about: "Correct-by-construction Distributed Systems and Decentralised Applications: from Blockchain to Swarms"
+    about: "CbC-DS 2026"
     speakers: "Speakers"
     schedule: "Schedule"
     location: "Location"
