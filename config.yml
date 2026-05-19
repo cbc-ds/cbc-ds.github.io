@@ -57,19 +57,33 @@ params:
   speakers:
     - name: "Annette Bieniusa"
       company: "RPTU University of Kaiserslautern-Landau"
-      link: "https://janedoe.example.com"
+      link: "http://softech.informatik.uni-kl.de"
       bio: >
-        Jane works on verified compilation and the design of intermediate
-        representations for certified compilers.
-      image: "jane-doe.jpg"   # put in static/img/
+        Annette Bieniusa is leading the Software Technology Group at the
+        University of Kaiserslautern. Her research interests include
+        semantics of concurrent and distributed programming, with a
+        focus on replication, synchronization, and programming
+        language concepts such as Software Transactional Memory and
+        Replicated Data Structures. Annette is involved in several
+        national and international research projects, including the
+        EU-H2020 Project “Lightkone: Lightweight computation for
+        networks at the edge”.
+      image: "annette.jpg"   # put in static/img/
 
-    - name: "John Smith"
-      company: "University of Edinburgh"
-      link: "https://johnsmith.example.com"
+    - name: "Wolfgang Ahrendt"
+      company: "University of Chalmers"
+      link: "https://www.cse.chalmers.se/~ahrendt/"
       bio: >
-        John research focuses on dependent type theory and proof assistants,
-        with a particular interest in Rocq and Lean.
-      image: "john-smith.jpg"
+        Wolfgang Ahrendt is Professor at Chalmers University of Technology, Gothenburg, Sweden,
+        and received his Ph.D. in Computer Science from the University of
+        Karlsruhe, Germany, in 2001. His contributions lie in deductive
+        verification of software, runtime verification, and combinations of
+        static verification with runtime verification and testing. Wolfgang
+        Ahrendt is one of the people behind the software verification approach
+        and system KeY. Recent application areas of his work include
+        automotive software safety, smart contracts and, and AI assisted
+        development of reliable software.
+      image: "wolfgang.jpg"
 
   # --- Schedule ---
   schedule:
