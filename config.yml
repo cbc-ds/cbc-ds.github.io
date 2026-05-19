@@ -55,10 +55,9 @@ params:
 
   # --- Speakers ---
   speakers:
-    - name: "Jane Doe"
-      company: "Inria"
+    - name: "Annette Bieniusa"
+      company: "RPTU University of Kaiserslautern-Landau"
       link: "https://janedoe.example.com"
-      twitter: "janedoe"
       bio: >
         Jane works on verified compilation and the design of intermediate
         representations for certified compilers.

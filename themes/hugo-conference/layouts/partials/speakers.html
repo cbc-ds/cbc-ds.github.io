@@ -1,7 +1,8 @@
 <h2 class="section-title">{{ .titles.speakers }}</h2>
 
 <ul class="speakers-list">
-{{ range .speakers }}
+  {{ range .speakers }}
+  {{ $speaker := . }}
   <li class="speakers-item" itemprop="performer" itemscope itemtype="http://schema.org/Person">
     {{ with .image }}
       <span class="speaker-photo">
@@ -11,9 +12,9 @@
 
     <h3 class="speakers-name">
       {{ with .link }}
-        <a href="{{ . }}" target="_blank" itemprop="url">{{ $.name }}</a>
+        <a href="{{ . }}" target="_blank" itemprop="url">{{ $speaker.name }}</a>
       {{ else }}
-        {{ .name }}
+        {{ $speaker.name }}
       {{ end }}
     </h3>
 
