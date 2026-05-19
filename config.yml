@@ -1,6 +1,6 @@
-baseURL: "https://inforum.pt/"
-languageCode: "pt-pt"
-title: "INForum 2026"
+baseURL: "https://cbc-ds.github.io"
+languageCode: "en-en"
+title: "Correct by Construction Distributed Systems"
 theme: "hugo-conference"
 
 markup:
