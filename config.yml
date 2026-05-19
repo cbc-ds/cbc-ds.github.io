@@ -85,6 +85,18 @@ params:
         development of reliable software.
       image: "wolfgang.jpg"
 
+    - name: "Yackoley Amoussou-Guenou"
+      company: "Université Paris-Panthéon-Assas"
+      link: ""
+      bio: >
+      image: "yackoley.jpg"
+
+    - name: "Cosimo Laneve"
+      company: "University of Bologna"
+      link: "https://www.unibo.it/sitoweb/cosimo.laneve/"
+      bio: >
+      image: "cosimo.jpg"
+
   # --- Schedule ---
   schedule:
     - time: "8:30"
