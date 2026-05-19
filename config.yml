@@ -30,7 +30,7 @@ params:
   sections:
     - about
     - speakers
-    - schedule
+    # - schedule
     # - sponsors
     # - partners
     - location
