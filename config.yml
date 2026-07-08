@@ -71,7 +71,7 @@ params:
       image: "annette.jpg"   # put in static/img/
 
     - name: "Wolfgang Ahrendt"
-      company: "University of Chalmers"
+      company: "Chalmers University of Technology"
       link: "https://www.cse.chalmers.se/~ahrendt/"
       bio: >
         Wolfgang Ahrendt is Professor at Chalmers University of Technology, Gothenburg, Sweden,
@@ -112,19 +112,23 @@ params:
       speaker: "Ana Ribeiro (NOVA FCT)"
     - time: "10:40"
       name: "Coffee Break"
-    - time: "12:30"
-      name: "Lunch"
-    - time: "14:00"
-      name: "Session 2: Deductive Verification"
-    - time: "15:30"
-      name: "Coffee Break"
-    - time: "16:00"
-      name: "Keynote: OCaml Semantics and the Osiris Project"
-      speaker: "John Smith"
-    - time: "17:00"
-      name: "Panel Discussion"
-    - time: "18:00"
-      name: "Reception"
+    - time: "11:00"
+      name: "Keynote: "
+      speaker: "Wolfgang Ahrendt (Chalmers University of Technology)"
+    - time: "12:00"
+      name: "Typestated Monitors for Distributed Java Applications"
+      speaker: "Francisco Parrinha (NOVA FCT)"
+    - time: "12:20"
+      name: "Auto-active Verification of Distributed Systems"
+      speaker: "Ion Chirica (NOVA FCT)"
+    - time: "12:40"
+      name: "Lunch break"
+    - time: "14:10"
+      name: "Keynote: Legal Contracts as Programs: The Stipula Experience"
+      speaker: "Cosimo Laneve"
+    - time: "15:10"
+      name: "Ethereum Verified Machine: A Certified OCaml Implementation of the EVM"
+      speaker: "Ion Chirica"
 
   # --- Sponsors ---
   # sponsors:
