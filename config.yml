@@ -89,12 +89,20 @@ params:
       company: "Université Paris-Panthéon-Assas"
       link: ""
       bio: >
-      image: "yackolley.jpg"
+        Yackolley Amoussou-Guenou is Associate Professor at Panthéon-Assas University, France. He holds a PhD in Computer Science from Sorbonne Université and a Master degree in theoretical computer science from Paris Cité University. His research is mainly on blockchain and distributed technologies His contributions lie at the intersection of distributed computation and game theory. His works have been published in Review of Financial Studies, ACM Distributed Ledger Technologies, and Theoretical Computer Science.
+     image: "yackolley.jpg"
 
     - name: "Cosimo Laneve"
       company: "University of Bologna"
       link: "https://www.unibo.it/sitoweb/cosimo.laneve/"
       bio: >
+        Cosimo Laneve is Professor at the Department of Computer Science and Engineering of
+        the University of Bologna. His research interests lie in the theory of programming languages
+        and the formal verification of program properties. His work has addressed imperative,
+        functional, object-oriented, concurrent, and smart contract languages.
+        Cosimo was a Visiting Scientist at Microsoft Research, where he led a project on a programming language for Web Services. He
+        has also coordinated research units in national and European projects and has been the scientific lead in several industry-funded
+        collaborations.
       image: "cosimo.jpg"
 
   # --- Schedule ---
