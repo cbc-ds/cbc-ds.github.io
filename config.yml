@@ -113,7 +113,7 @@ params:
     - time: "10:40"
       name: "Coffee Break"
     - time: "11:00"
-      name: "Keynote: "
+      name: "Keynote: Notions of Smart Contract Correctness: Analysing Data Integrity, Bias, and Workflow Compliance"
       speaker: "Wolfgang Ahrendt (Chalmers University of Technology)"
     - time: "12:00"
       name: "Typestated Monitors for Distributed Java Applications"
