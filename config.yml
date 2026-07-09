@@ -89,8 +89,14 @@ params:
       company: "Université Paris-Panthéon-Assas"
       link: ""
       bio: >
-        Yackolley Amoussou-Guenou is Associate Professor at Panthéon-Assas University, France. He holds a PhD in Computer Science from Sorbonne Université and a Master degree in theoretical computer science from Paris Cité University. His research is mainly on blockchain and distributed technologies His contributions lie at the intersection of distributed computation and game theory. His works have been published in Review of Financial Studies, ACM Distributed Ledger Technologies, and Theoretical Computer Science.
-     image: "yackolley.jpg"
+        Yackolley Amoussou-Guenou is Associate Professor at Panthéon-Assas University,
+        France. He holds a PhD in Computer Science from Sorbonne Université and a
+        Master degree in theoretical computer science from Paris Cité
+        University. His research is mainly on blockchain and distributed
+        technologies His contributions lie at the intersection of distributed
+        computation and game theory. His works have been published in Review of
+        Financial Studies, ACM Distributed Ledger Technologies, and Theoretical Computer Science.
+      image: "yackolley.jpg"
 
     - name: "Cosimo Laneve"
       company: "University of Bologna"
