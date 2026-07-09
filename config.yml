@@ -107,7 +107,7 @@ params:
 
   # --- Schedule ---
   schedule:
-    - time: "8:60"
+    - time: "8:50"
       name: "Welcome"
     - time: "9:00"
       name: "Keynote: CRDTs, Verification and the Challenge of Composition in Distributed Systems"
